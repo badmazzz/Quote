@@ -1,0 +1,15 @@
+.saved-quotes {
+  margin-top: 32px;
+}
+
+.saved-quotes h2 {
+  font-size: 1.5em;
+}
+
+.saved-quote {
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 8px 16px;
+  margin: 8px 0;
+}
